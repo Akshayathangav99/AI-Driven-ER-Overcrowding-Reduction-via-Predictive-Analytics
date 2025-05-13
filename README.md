@@ -1,6 +1,6 @@
 # AI-Driven-ER-Overcrowding-Reduction-via-Predictive-Analytics
 
-# Predictive Analytics, Resource Optimization & Patient Flow Management
+## Predictive Analytics, Resource Optimization & Patient Flow Management
 
 This project tackles one of healthcare’s most critical challenges: emergency room (ER) overcrowding. Using machine learning, process optimization, and data-driven scheduling, we forecast patient arrivals, optimize resource allocation, and reduce wait times to improve healthcare delivery and operational efficiency.
 
